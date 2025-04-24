@@ -100,7 +100,7 @@ tab-group:not([split-view-group]) {
       font-size: 12px !important;
       white-space: nowrap;
       text-overflow: ellipsis;
-      margin-top: 3px !important; /*edited*/
+      margin-top: 5px !important; /*edited*/
 
       @media not (-moz-bool-pref: "zen.view.sidebar-expanded") {
         color: transparent !important;
@@ -116,7 +116,7 @@ tab-group:not([split-view-group]) {
         left: 8px !important;
       }
 
-      top: 19% !important; /* edited */
+      top: 16% !important; /* edited */
       width: 20px !important;
       height: 20px !important;
 
@@ -225,7 +225,7 @@ tab-group:not([split-view-group]) {
         left: 8px !important;
       }
 
-      top: 19% !important; /* edited */
+      top: 16% !important; /* edited */
       width: 20px !important;
       height: 20px !important;
 
